@@ -1,0 +1,53 @@
+#title{
+    text-align: center;
+  
+  
+  }
+  h1{
+    display: block;
+      font-size: 2em;
+      margin-block-start: 0.67em;
+      margin-block-end: 0.67em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+  
+  }
+  body{
+  
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    
+    background-image:url(https://img.freepik.com/free-vector/memphis-blue-background-with-halftone-line-elements_1017-33622.jpg?w=900&t=st=1661604251~exp=1661604851~hmac=036bbf35d488d3b8fd5a67ad73289630398166f4d24bb69d433b1a67e42cd339);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    background-color: 	#35c2c2;
+    font-family: 'Tahoma', sans-serif;
+    font-size: 1rem;
+    color:rgb(239, 239, 239);
+  
+  }
+
+  
+  
+  
+  #survey-form{
+    background-color: black;
+   margin: 5px;
+  }
+  #dropdown{
+  margin: auto;
+  padding: auto;
+  
+  
+  }
+  textarea{
+display: block;
+
+  }
+#survey-form{
+  color: rgb(255, 255, 255);
+  text-align:center;
+}
